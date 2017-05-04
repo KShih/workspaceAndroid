@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">alert_Menuorder</string>
+    <string-array name="set_drink">
+        <item>紅茶 10元</item>
+        <item>綠茶 20元</item>
+        <item>奶茶 30元</item>
+        <item>黑茶 40元</item>
+        <item>摸摸茶 50元</item>
+        <item>烏龍茶 60元</item>
+        <item>青茶 70元</item>
+        <item>抹茶 80元</item>
+        <item>烏龍青茶 90元</item>
+        <item>烏龍綠茶 100元</item>
+    </string-array>
+    <string-array name="set_count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
